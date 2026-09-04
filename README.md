@@ -22,12 +22,6 @@
 
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravuttam14&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Gaurav Uttam's activity graph">
-    
-
   
 <p align='center'>
 <img src='https://github-widgetbox.vercel.app/api/profile?username=gauravuttam14&theme=darkmode&data=followers,repositories,stars,commits' />
